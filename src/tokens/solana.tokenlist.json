@@ -24861,6 +24861,20 @@
         "wrapped",
         "wormhole"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BsTyyiASEHRWAiozgyTvKZaekudv5tp5iLrnFcAWZJ8t",
+      "symbol": "FLY",
+      "name": "Fractionly",
+      "decimals": 0,
+      "logoURI": "https://ibb.co/MN06qzz",
+      "tags": [
+        "Fractionalize a Token"
+      ],
+      "extensions": {
+        "website": "www.fractionly.ai"
+      }
     }
   ],
   "version": {
